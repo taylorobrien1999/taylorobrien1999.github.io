@@ -75,7 +75,7 @@ button {
     cursor: pointer;
 }
 
-Button:hover {
+button:hover {
     background-color: darkblue;
 }
 
